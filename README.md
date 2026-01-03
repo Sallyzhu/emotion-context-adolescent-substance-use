@@ -60,7 +60,10 @@ pip install -r requirements.txt
 
 If you use this code, please cite the following arXiv preprint:
 
-Zhu, J., Jiang, H., Wang, Y., Coifman, K. G., Jin, R., & Kenne, D. R. (2025).
-*Emotions, Context, and Substance Use in Adolescents: A Large Language Model Analysis of Reddit Posts*.
-arXiv preprint, arXiv:2501.14037.
+Zhu, J., Jiang, H., Wang, Y., Coifman, K. G., Jin, R., & Kenne, D. R. (2025).  
+*Emotions, Context, and Substance Use in Adolescents: A Large Language Model Analysis of Reddit Posts*.  
+arXiv preprint, arXiv:2501.14037.  
 https://arxiv.org/abs/2501.14037
+
+
+
