@@ -47,7 +47,15 @@ The analysis pipeline is organized into the following Jupyter notebooks:
 
 Each script is documented to indicate its role in the analysis pipeline.
 
+
 ---
+##  Citation
+Please cite the following arXiv preprint:
+
+Zhu, J., Jiang, H., Wang, Y., Coifman, K. G., Jin, R., & Kenne, D. R. (2025).  
+*Emotions, Context, and Substance Use in Adolescents: A Large Language Model Analysis of Reddit Posts*.  
+arXiv preprint, arXiv:2501.14037.  
+https://arxiv.org/abs/2501.14037
 
 ## Reproducibility
 
@@ -55,15 +63,3 @@ To install dependencies:
 
 ```bash
 pip install -r requirements.txt
-
-## Citation
-
-If you use this code, please cite the following arXiv preprint:
-
-Zhu, J., Jiang, H., Wang, Y., Coifman, K. G., Jin, R., & Kenne, D. R. (2025).  
-*Emotions, Context, and Substance Use in Adolescents: A Large Language Model Analysis of Reddit Posts*.  
-arXiv preprint, arXiv:2501.14037.  
-https://arxiv.org/abs/2501.14037
-
-
-
